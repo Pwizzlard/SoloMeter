@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: SoloMeter
+## Notes: Blizzard's built-in damage meter, showing only you.
+## Author: Pwizzlard
+## Version: 1.0.0
+## IconTexture: Interface\Icons\Ability_Warrior_Rampage
+## X-Website: https://github.com/Pwizzlard/SoloMeter
+## X-Category: Combat
+## X-License: MIT
+## Dependencies: Blizzard_DamageMeter
+SoloMeter.lua
